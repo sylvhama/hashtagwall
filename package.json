@@ -1,0 +1,24 @@
+{
+  "name": "hashtagwallApp",
+  "version": "0.0.0",
+  "dependencies": {},
+  "devDependencies": {
+  "gulp": "*",
+  "gulp-util": "*",
+  "gulp-plumber": "*",
+  "gulp-coffee": "*",
+  "gulp-concat": "*",
+  "gulp-uglify": "*",
+  "gulp-imagemin": "*",
+  "gulp-compass": "*",
+  "gulp-minify-html": "*",
+  "gulp-minify-css": "*",
+  "gulp-useref": "*",
+  "gulp-if": "*",
+  "del": "*",
+  "require-dir": "*"
+},
+  "engines": {
+    "node": ">=0.10.0"
+    }
+}

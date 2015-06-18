@@ -1,0 +1,14 @@
+{
+  "name": "hashtagwall",
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "1.x.x",
+    "angular": "1.2.6",
+    "angular-route": "1.2.6",
+    "angular-animate": "1.2.6",
+    "masonry": "3.1.5",
+    "foundation": "5.2.x"
+  },
+  "devDependencies": {
+  }
+}
